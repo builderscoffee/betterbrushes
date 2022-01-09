@@ -1,0 +1,6 @@
+name: BetterBrushes
+main: eu.builderscoffee.betterbrushes.Main
+version: 1.0
+depend:
+  - FastAsyncVoxelSniper
+api-version: 1.18
